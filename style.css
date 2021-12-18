@@ -1,0 +1,35 @@
+/* img{
+    width: 500px; 
+    height: 500px; ; 
+} */
+.nothing h1{
+    text-align: center;
+    color: cyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nothing p{
+    margin-left: 600px;
+    color: lawngreen;
+    
+}
+body {
+    background-image: url("img/581048.jpg"); 
+}
+
+
+.item ul{
+    margin-left: 500px;
+    color: darksalmon;
+}
+.item ol{
+    margin-left: 500px;
+    color: deeppink;
+}
+.item dl{
+    margin-left: 500px;
+    color: gold;
+}
+.item h3{
+    text-align: center;
+    color: darkorange;
+}
